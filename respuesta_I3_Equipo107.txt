@@ -18,3 +18,4 @@ f- En el punto 7 se realizaron los comandos:
 	git add .
 	git commit -m "Modificaion de GAMMA al archivo beta.txt"
 	git push origin Ybarrola
+g- No se hizo el punto ocho ya que alfa hizo el trabajo de beta. Los comandos serian igual que en el punto 7.
