@@ -1,1 +1,20 @@
 Caffaro Facundo e Ybarrola Cecilia
+a- El master queda con:
+	beta.txt
+	CPUAlfa.txt
+	CPUGamma.txt
+	datos.txt
+	respuesta_I3_Equipo107.txt
+b- Si se pudieron ver los cambios realizados
+c- Desde el main se uso el comando:
+	git merge Caffaro
+d- Estando en la rama de GAMMA no se puede ver el cambio de beta.txt ni de respuesta_I3_Equipo107.txt
+d- Estando en la rama de BETA no se puede ver el cambio de respuesta_I3_Equipo107.txt
+e- Ningun problema se tuvo a la hora de hacer el merge
+f- En el punto 7 se realizaron los comandos:
+	git checkout Ybarrola
+	echo Caffaro Facundo Darian, Hora 23:13hs
+	ipconfig >> beta.txt
+	git add .
+	git commit -m "Modificaion de GAMMA al archivo beta.txt"
+	git push origin Ybarrola
